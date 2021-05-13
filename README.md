@@ -3,8 +3,9 @@ pixi.js-mouse (2021 Pixi.js v5)
 
 Handle mouse events elegantly and simple.
 
-> Demo: http://99.111.66.165/pixijs/
-> Download: http://99.111.66.165/pixijs/demo.zip (browserify)
+Demo: http://99.111.66.165/pixijs/
+
+Download: http://99.111.66.165/pixijs/demo.zip (browserify)
 
 ## Installation
 ```
