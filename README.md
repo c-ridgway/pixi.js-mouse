@@ -1,9 +1,10 @@
 pixi.js-mouse
 ======================
 
-pixi.js-mouse handles mouse events easily. Touch will be included in another more suitable library.
+pixi.js-mouse is a WORKING (2021) plugin for Pixi.js v5 or higher to manage the mouse events easily.
 
-Demo: http://ocservers.com/demos/pixi.js-events/
+Demo: http://99.111.66.165/pixijs/
+Download: http://99.111.66.165/pixijs/demo.zip (browserify)
 
 ## Installation
 ```
