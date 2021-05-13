@@ -1,10 +1,10 @@
-pixi.js-mouse
+pixi.js-mouse (2021 Pixi.js v5)
 ======================
 
-pixi.js-mouse is a WORKING (2021) plugin for Pixi.js v5 or higher to manage the mouse events easily.
+Handle mouse events elegantly and simple.
 
-Demo: http://99.111.66.165/pixijs/
-Download: http://99.111.66.165/pixijs/demo.zip (browserify)
+> Demo: http://99.111.66.165/pixijs/
+> Download: http://99.111.66.165/pixijs/demo.zip (browserify)
 
 ## Installation
 ```
