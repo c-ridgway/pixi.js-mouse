@@ -1,0 +1,27 @@
+{
+  "name": "pixi.js-mouse",
+  "version": "1.1.0",
+  "description": "pixi.js-mouse is a WORKING (2021) plugin for Pixi.js v5 or higher to manage the mouse events easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c-ridgway/pixi.js-mouse.git"
+  },
+  "keywords": [
+    "pixi.js",
+    "pixi",
+    "keyboard"
+  ],
+  "author": "-nom-",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c-ridgway/pixi.js-mouse/issues"
+  },
+  "homepage": "https://github.com/c-ridgway/pixi.js-mouse#readme",
+  "dependencies": {
+    "nom-events": "^1.0.3"
+  }
+}
