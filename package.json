@@ -1,6 +1,6 @@
 {
   "name": "pixi.js-mouse",
-  "version": "1.1.4",
+  "version": "1.1.6",
   "description": "Handle mouse events elegantly and simple.",
   "main": "index.js",
   "scripts": {
